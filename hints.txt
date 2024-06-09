@@ -1,0 +1,26 @@
+how to know the methods..like
+.capitalize()
+.title()
+.append()
+.strip() is to remopve the space from the word that is to remv ethe space from the word
+use
+dir(str) for knowing the methods for strings
+and then help(str.methodname) to know the method
+same is with list
+
+dir(list)
+for knwoing the methods for list
+and then help(list.methodname) to knwo teh method
+
+
+\\\\\\\
+when we want to match the user input
+match userinput
+    case 'theinput' | 'input2'
+        your data
+
+
+list.__setitem__(indexnumber, "whatever you want to replace with the thing that was at the indexnumber previosly")
+list[indexnumber] = 'whatever you want to replace with the thing that was at the indexnumber previosly'
+
+list.index(string) reads the strings and give the index number of it5
